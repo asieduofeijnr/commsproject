@@ -28,7 +28,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     st.subheader("Shoe Size")
-    st.image("images/shoe.gif", width=200)
+    st.image("images/shoe.png", width=200)
 
 with col2:
     st.subheader("Gender")
