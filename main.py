@@ -125,7 +125,7 @@ shoe_size = st.text_input(
     " ", placeholder='Shoe Size in EU Size', label_visibility="hidden")
 
 try:
-    shoe_size = int(shoe_size)
+    shoe_size = float(shoe_size)
 except ValueError:
     st.error("Please put in a Valid Shoe Size")
 
