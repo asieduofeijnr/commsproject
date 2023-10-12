@@ -1,6 +1,5 @@
 pandas==1.5.3
 streamlit-lottie==0.0.5
 streamlit==1.25.0
-plotly @ file:///Users/cbousseau/work/recipes/ci_py311/plotly_1677953301864/work
 plotly-express==0.4.1
 statsmodels @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d39rlzrllo/croot/statsmodels_1689937269798/work
