@@ -30,12 +30,12 @@ with col1:
     st.subheader("Shoe Size")
     st.image("images/shoe.png", width=200)
 
-with col2:
+with col3:
     st.subheader("Gender")
     st.image("images/gender.gif", width=200)
 
-with col3:
-    st.subheader("Height")
+with col2:
+    st.image("images/plus.png", width=200)
 
 st.subheader("Important Libraries")
 st.code("""import matplotlib.pyplot 
