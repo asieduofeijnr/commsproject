@@ -2,15 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import statsmodels.formula.api as smf
-import statsmodels.api as sm
-import matplotlib.pyplot as plt
 import plotly.express as px
-import scipy
 from statsmodels.stats.diagnostic import het_breuschpagan
 from statsmodels.stats.diagnostic import het_white
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 from patsy import dmatrices, dmatrix
-import re
 
 
 df = pd.read_csv('wo_men.csv')
