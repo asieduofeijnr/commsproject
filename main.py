@@ -32,7 +32,7 @@ with col1:
 
 with col3:
     st.subheader("Gender")
-    st.image("images/gender.gif", width=200)
+    st.image("images/gender.webp", width=200)
 
 with col2:
     st.image("images/plus.png", width=200)
