@@ -1,7 +1,5 @@
 # Presentation Overview
 
-This README provides an overview of our presentation on Linear Regression. We have divided the presentation into several sections, each with its unique focus and objectives.
-
 ## Introduction by Andrea
 Andrea will kick off the presentation by introducing the team and setting the stage for the presentation. She will also provide a brief summary of the topics covered in previous presentations and explain how today's discussion builds upon that knowledge. Andrea will emphasize the practicality of linear regression as a modeling method, which is the central theme of our presentation. She will delve into the predictive and inferential aspects of linear regression that make it intriguing.
 
@@ -13,5 +11,3 @@ Felix will provide a detailed explanation of the model being used, with a focus 
 
 ## Interactive Example by Solomon
 Solomon will conclude the presentation with an interactive example of linear regression. He will engage the audience by collecting their shoe sizes and attempting to predict their heights using the model. Solomon will explain how to interpret the model's prediction output, including the difference between the actual prediction and the prediction interval. The goal of this section is to showcase linear regression in action and highlight its prediction capabilities, even in the face of the model's simplicity.
-
-We hope you enjoy our presentation and gain a deeper understanding of the power and practicality of linear regression.
